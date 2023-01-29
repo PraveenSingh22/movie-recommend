@@ -15,11 +15,8 @@ mypy_extensions==0.4.3
 numpy==1.21.0
 ordereddict==1.1
 pandas==1.2.4
-protobuf==4.21.12
+protobuf==3.20
 pyOpenSSL==23.0.0
-pywin32==227
 streamlit==1.17.0
-typing_extensions==3.7.4.3
-wincertstore==0.2.1
-xmlrpclib==1.0.1
+typing_extensions==4.1.1
 zipp==3.4.1
