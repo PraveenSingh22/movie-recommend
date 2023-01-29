@@ -19,6 +19,5 @@ protobuf==4.21.12
 pyOpenSSL==23.0.0
 streamlit==1.17.0
 typing_extensions==3.7.4.3
-wincertstore==0.2.1
 xmlrpclib==1.0.1
 zipp==3.4.1
